@@ -20,3 +20,6 @@ For macOS:
 ```bash
 GOOS=darwin GOARCH=amd64 go build -o MyApp main.go
 ```
+
+## Screenshots
+![alt text](images/main-window.png)
